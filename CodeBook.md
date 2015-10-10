@@ -27,14 +27,14 @@ loaded.
 Variables defined:
 ==================
 
-'FEA': data table storing descriptive variable names for measurables
-'ACT': data table storing descriptive activity names
-'DT':  data table holding the raw data
-'DF0': data frame holding the raw data
-'SAT': data frame holding subject IDs and activity IDs
-'DAT': data frame holding only the measurements on the mean and standard deviation
-'DF':  data frame holding transformed data
-'DF2': data frame holding independent tidy data set with the average of each
+* 'FEA': data table storing descriptive variable names for measurables
+* 'ACT': data table storing descriptive activity names
+* 'DT':  data table holding the raw data
+* 'DF0': data frame holding the raw data
+* 'SAT': data frame holding subject IDs and activity IDs
+* 'DAT': data frame holding only the measurements on the mean and standard deviation
+* 'DF':  data frame holding transformed data
+* 'DF2': data frame holding independent tidy data set with the average of each
        variable for each activity and each subject
 
 

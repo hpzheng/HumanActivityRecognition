@@ -1,8 +1,6 @@
 # Human Activity Recognition Using Smartphones Dataset Cleaning
-Version 1.0
-==================================================================
-Heping Zheng, October-2015
-==================================================================
+### Version 1.0
+### Heping Zheng, October-2015
 
 These are codes to extract and tidy the mean and standard deviation of
 measurement made using the Human Activity Recognition Using Samsung Galaxy S
